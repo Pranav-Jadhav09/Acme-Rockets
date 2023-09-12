@@ -11,7 +11,7 @@
 <h2 align="center">Acme Rockets</h2>
 Acme Rockets makes space exploration easy with luxury spacecrafts. Explore our cutting-edge rocket technology and space travel services. I've made this website using Tailwind CSS.
 
-<a href="https://pranav-jadhav09.github.io/omnifood-website/"><strong>➥ Live Demo</strong></a>
+<a href="https://acme-rockets-website.onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -19,7 +19,7 @@ Acme Rockets makes space exploration easy with luxury spacecrafts. Explore our c
 
 ## Demo
 
-![Omnifood Demo](./img/newhhhhh.jpg "Desktop Demo")
+![Demo Screen](./build/assets/demoscreen.png "Desktop Demo")
 
 ## Prerequisites
 
@@ -29,18 +29,18 @@ Before you begin, ensure you have met the following requirements:
 
 ## Run Locally
 
-To run **Omnifood**, run this command on your git bash:
+To run **Acme Rockets**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/omnifood-website.git
+sudo git clone https://github.com/Pranav-Jadhav09/acme-rockets-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/omnifood-website.git
+git clone https://github.com/Pranav-Jadhav09/acme-rockets-website.git
 ```
 
 ## License
