@@ -21,6 +21,7 @@ Acme Rockets makes space exploration easy with luxury spacecrafts. Explore our c
 
 ![Demo Screen](https://cdn3.f-cdn.com//files/download/200826275/dark%20rocket.png?width=780&height=382&fit=crop "Desktop Demo")
 
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
